@@ -17,9 +17,9 @@
 
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>Home</a></li>
-                <li id="students" runat="server"><a href="Default.aspx"><i class="fa fa-leanpub fa-lg"></i>Students</a></li>
-                <li id="courses" runat="server"><a href="Default.aspx"><i class="fa fa-book fa-lg"></i>Courses</a></li>
-                <li id="departments" runat="server"><a href="Default.aspx"><i class="fa fa-puzzle-piece fa-lg"></i>Departments</a></li>
+                <li id="students" runat="server"><a href="Students.aspx"><i class="fa fa-leanpub fa-lg"></i>Students</a></li>
+                <li id="courses" runat="server"><a href="Courses.aspx"><i class="fa fa-book fa-lg"></i>Courses</a></li>
+                <li id="departments" runat="server"><a href="Departments.aspx"><i class="fa fa-puzzle-piece fa-lg"></i>Departments</a></li>
                 <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i>Contact Us</a></li>
             </ul>
         </div>
